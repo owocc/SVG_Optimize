@@ -1,0 +1,5 @@
+{
+  "name": "SVG Optimizer",
+  "description": "A powerful, client-side tool to clean, optimize, and customize SVG code. Paste your SVG, tweak settings like dimensions and attributes, and get a clean, production-ready version with a live preview. Supports light and dark modes.",
+  "requestFramePermissions": []
+}
